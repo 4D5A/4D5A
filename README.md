@@ -3,7 +3,7 @@
 
 [![Twitter recordedparadox](https://img.shields.io/twitter/follow/recordedparadox?style=flat-square)](https://twitter.com/recordedparadox)
 [![GitHub recordedparadox](https://img.shields.io/github/followers/4D5A?label=follow%20github&style=flat-square)](https://github.com/4D5A)
-[![Blog recordedparadox](https://img.shields.io/badge/Blog-follow-brightgreen)](https://medium.com/security-in-the-cloud)
+[![Blog recordedparadox](https://img.shields.io/badge/follow-blog-brightgreen)](https://medium.com/security-in-the-cloud)
 
 <!--
 **4D5A/4D5A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
