@@ -1,4 +1,7 @@
-### Hi there 👋
+<h4 align="left">Personal blog:</h4>
+<p align="left">
+<a href="https://medium.com/@recordedparadox" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://medium.com/@recordedparadox" height="30" width="40" /></a>
+</p>
 
 <!--
 **4D5A/4D5A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
