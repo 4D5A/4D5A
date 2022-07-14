@@ -1,3 +1,5 @@
+<h2>4D5A</h2>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=4D5A&show_icons=true&theme=dark" width="380">
 <h4 align="left">Personal blog:</h4>
 <p align="left">
 <a href="https://medium.com/@recordedparadox" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://medium.com/@recordedparadox" height="30" width="40" /></a>
