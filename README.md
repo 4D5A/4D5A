@@ -2,7 +2,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=4D5A&show_icons=true&theme=dark" width="380">
 
 [![Twitter: recordedparadox](https://img.shields.io/twitter/follow/recordedparadox?style=flat-square)](https://twitter.com/recordedparadox)
-[![GitHub recordedparadox](https://img.shields.io/github/followers/recprdedparadox?label=follow%20github&style=flat-square)](https://github.com/recordedparadox)
+[![GitHub recordedparadox](https://img.shields.io/github/followers/4D5A?label=follow%20github&style=flat-square)](https://github.com/4D5A)
 [![Blog recordedparadox](https://medium.com/security-in-the-cloud)
 
 <!--
