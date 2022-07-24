@@ -1,6 +1,6 @@
 <h2>4D5A</h2>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=4D5A&show_icons=true&theme=dark" width="380">
+<a href="https://github.com/4D5A/"><img align="right" src="https://github-readme-stats.vercel.app/api?username=4D5A&show_icons=true&theme=dark" width="380"></a>
 
 ![Twitter](https://img.shields.io/twitter/follow/recordedparadox?style=social)
 
