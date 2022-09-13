@@ -5,7 +5,7 @@
 ![Twitter](https://img.shields.io/twitter/follow/recordedparadox?style=social)
 
 [![GitHub recordedparadox](https://img.shields.io/github/followers/4D5A?label=follow%20github&style=flat-square)](https://github.com/4D5A)
-[![Blog recordedparadox](https://img.shields.io/badge/follow-blog-brightgreen)](https://medium.com/security-in-the-cloud)
+[![Blog recordedparadox](https://img.shields.io/badge/follow-blog-brightgreen)](https://4d5a.github.io)
 
 - 🔭 I’m currently working on Active Directory, Azure Active Directory, Microsoft 365, Migrating from on-premises domain joined to hybrid azure active directory domain joined
 - 🌱 I’m currently learning Microsoft Intune, Microsoft Endpoint Manager, and Git
