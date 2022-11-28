@@ -9,7 +9,6 @@
 
 - 🔭 I’m currently working on Azure Active Directory, Microsoft 365, Migrating from on-premises domain joined to hybrid azure active directory domain joined, Microsoft Defender for Endpoint, and Active Directory
 - 🌱 I’m currently learning Microsoft Endpoint Manager, Microsoft Graph SDK, and Git
-- 📫 How to reach me: [Twitter](https://twitter.com/recordedparadox)
 - 😄 Pronouns: he/his/him
 
 
