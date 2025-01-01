@@ -1,6 +1,8 @@
+<a rel="me" href="https://infosec.exchange/@recordedparadox"></a>
 <h2>4D5A</h2>
 
-[![Twitter recordedparadox](https://img.shields.io/twitter/follow/recordedparadox?style=social)](https://witter.com/recordedparadox)
+[![Mastodon](https://img.shields.io/mastodon/follow/109299763334110460?domain=https%3A%2F%2Finfosec.exchange&style=social)](https://infosec.exchange/users/recordedparadox)
+[![Twitter recordedparadox](https://img.shields.io/twitter/follow/recordedparadox?style=social)](https://twitter.com/recordedparadox)
 
 [![GitHub recordedparadox](https://img.shields.io/github/followers/4D5A?label=follow%20github&style=flat-square)](https://github.com/4D5A)
 [![Blog recordedparadox](https://img.shields.io/badge/follow-blog-brightgreen)](https://4d5a.github.io)
