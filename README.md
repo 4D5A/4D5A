@@ -1,4 +1,3 @@
-<a rel="me" href="https://infosec.exchange/@recordedparadox"></a>
 <h2>4D5A</h2>
 
 [![Mastodon](https://img.shields.io/mastodon/follow/109299763334110460?domain=https%3A%2F%2Finfosec.exchange&style=social)](https://infosec.exchange/users/recordedparadox)
