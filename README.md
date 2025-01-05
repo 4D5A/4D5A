@@ -12,7 +12,6 @@ Cybersecurity - Digital Forensics - Microsoft 365. Posts are my own.
 - 🌱 I’m currently learning Microsoft Endpoint Manager, Microsoft Azure, Microsoft Graph SDK, and Git
 - 💬 Ask me about Microsoft Copilot, ChatGPT, Microsoft Entra ID, Microsoft Intune, and PowerShell
 - 😄 Pronouns: he/his/him
-- [Certifications](https://4d5a.github.io/certifications)
 
 [![4D5A's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=4D5A&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![4D5A's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=4D5A&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
